@@ -25,3 +25,6 @@ npx wdio run ./wdio.conf.ts --spec ./features/NombreFeature.feature
 ```
 
 Este comando ejecutará el código utilizando la configuración en `wdio.conf.ts` y ejecutará la especificación de prueba ubicada en `./features/NombreFeature.feature`.
+
+# Nota del desarrolador:
+Modificar en el archivo `features\register.feature` en el example para `la ultima fila` de `la columna email`, con un valor diferente que sea valido si el correo que esta ya existe.
