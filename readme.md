@@ -8,6 +8,12 @@ Este proyecto fue desarrollado utilizando las siguientes versiones de las herram
 
 ## Instalación
 
+0. Abre una terminal y navega hasta la ruta raíz del proyecto:
+
+    ```
+    cd /ruta/a/la/ruta/raiz/del/proyecto
+    ```
+
 1. **Node.js y npm**: Asegúrate de tener Node.js y npm instalados en tu sistema. Puedes descargarlos desde [aquí](https://nodejs.org/).
 
 2. **Dependencias del Proyecto**: Instala las dependencias del proyecto ejecutando el siguiente comando en la raíz del proyecto:
